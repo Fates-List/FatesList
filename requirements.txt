@@ -36,7 +36,7 @@ discord==1.0.1
 discord-webhook==0.12.0
 discord.py==1.7.1
 distlib==0.3.1
-Django==3.1.7
+Django==3.1.8
 django-admin-logs==1.0.1
 django-material-admin==1.7.16
 dnspython==2.1.0
