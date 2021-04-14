@@ -28,7 +28,7 @@ cleo==0.8.1
 click==7.1.2
 clikit==0.6.2
 crashtest==0.3.1
-cryptography==3.4.6
+cryptography==3.4.7
 Cython==3.0a6
 ddlparse==1.9.0
 dictdiffer==0.8.1
