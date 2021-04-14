@@ -106,7 +106,7 @@ pypika-tortoise==0.1.0
 python-dateutil==2.8.1
 python-dotenv==0.15.0
 python-multipart==0.0.5
-pytkdocs==0.11.0
+pytkdocs==0.11.1
 pytz==2020.5
 PyYAML==5.4.1
 redis==3.5.3
