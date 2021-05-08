@@ -64,7 +64,7 @@ jeepney==0.6.0
 Jinja2==2.11.3
 jishaku==1.20.0.220
 joblib==1.0.1
-keyring==21.8.0
+keyring==23.0.1
 livereload==2.6.3
 llvmlite==0.37.0.dev0+23.g990a0d4.dirty
 lockfile==0.12.2
